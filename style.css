@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+table {
+    width: 1000px;
+    height: 50px;
+    background-color: turquoise;
+    margin: auto;
+    border: 2px solid blueviolet;
+}
+img{
+    border-radius: 60px;
+}
+tr{
+    font-family: 'EB Garamond', serif;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+.Name2{
+    background-color: rgb(2, 109, 25);
+}
+.title{
+    background-color: darkmagenta;
+}
